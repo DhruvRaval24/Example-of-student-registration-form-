@@ -34,10 +34,11 @@
 
             <label for="department">Department Name:</label>
             <select id="department" name="department">
-                <option value="cs">Computer Science</option>
-                <option value="it">Information Technology</option>
-                <option value="ece">Electronics and Communication</option>
-                <option value="me">Mechanical Engineering</option>
+                <option value="cs">Computer Department</option>
+                <option value="mi">Mining Department</option>
+                <option value="ece">Electrical Department</option>
+                <option value="me">Mechanical Department</option>
+		<option value="ci">Civil Department</option>
             </select><br><br>
 
             <label>Gender:</label><br>
